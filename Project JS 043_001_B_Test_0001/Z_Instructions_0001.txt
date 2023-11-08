@@ -1,0 +1,6 @@
+This project is part of : upGrad : FSD Bootcamp : Week - 10 : Mastering JavaScript - Asynchronous Programming & Remote Data : Module - 5 : Modern JavaScript with Babel : Topic - 2 : Using Babel in an HTML Page :
+
+NOTE : Topic - 1 in this module has no code :
+
+Author : Suvendu Chakraborty
+Dated  : 03-Nov-2023 : 0811 Hrs :
